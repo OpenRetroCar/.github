@@ -2,10 +2,6 @@
   <img src="banner.png" alt="OpenRetroCar" width="800">
 </p>
 
-# OpenRetroCar
-
-**Modern technology. Original character.**
-
 OpenRetroCar is an independent open-source initiative
 from Switzerland focused on modernizing the electronics
 of classic cars while preserving their original character.
