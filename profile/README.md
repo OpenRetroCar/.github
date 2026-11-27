@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="OpenRetroCar" width="100%">
+  <img src="banner.png" alt="OpenRetroCar" width="600">
 </p>
 
 # OpenRetroCar
